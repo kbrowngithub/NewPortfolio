@@ -102,6 +102,11 @@ nav a:first-child {
     color: black;
 }
 
+#skills-container h3 {
+    font-size: large;
+    font-weight: normal;
+}
+
 .footer {
     background-image: url("../images/information-transfer-technology.jpg");
     background-color: #cccccc;
