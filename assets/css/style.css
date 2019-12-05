@@ -50,6 +50,23 @@ nav a:first-child {
     /* transform: rotate(90deg); */
 }
 
+.quote-container {
+    padding-top: 120px;
+}
+
+.quote h5 {
+    font-size: smaller;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.quote h5 span {
+    font-size: smaller;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+
+}
+
 .container h1 {
     float: left;
     margin-top: 30;
@@ -68,6 +85,14 @@ nav a:first-child {
     text-align: center;
 }
 
+#masthead h5 {
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+    color: #fff;
+    font-family: cursive;
+    
+}
 .footer {
     background-image: url("../images/information-transfer-technology.jpg");
     background-color: #cccccc;
@@ -91,7 +116,8 @@ nav a:first-child {
 }
 
 .resume, .bio-text {
-    width: 100%;
+    text-align: right;
+    width: 75%;
     height: 75%;
 }
 
@@ -192,6 +218,10 @@ nav {
     margin: 20px;
     position: sticky;
     float: right;
+    }
+
+.quote-container {
+    padding-top: 0px;
     }
 }
     
