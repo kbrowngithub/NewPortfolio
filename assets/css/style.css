@@ -93,6 +93,11 @@ nav a:first-child {
     font-family: cursive;
     
 }
+
+/* .pdesc, .pimage {
+    float: left;
+} */
+
 .footer {
     background-image: url("../images/information-transfer-technology.jpg");
     background-color: #cccccc;
