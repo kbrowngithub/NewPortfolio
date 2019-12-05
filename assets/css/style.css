@@ -94,9 +94,13 @@ nav a:first-child {
     
 }
 
-/* .pdesc, .pimage {
-    float: left;
-} */
+#main-container {
+    margin: 0;
+    align-content: center;
+}
+.worklink {
+    color: black;
+}
 
 .footer {
     background-image: url("../images/information-transfer-technology.jpg");
