@@ -125,13 +125,23 @@ nav a:first-child {
     height: 5%;
     text-align: center;
     
-    padding-top: 20px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
     
 }
 
 .footer a {
     color: rgb(189, 189, 189);
     text-decoration: none;
+}
+
+#linkedin {
+    float: left;
+}
+
+#github {
+    float: right;
 }
 
 .resume {
