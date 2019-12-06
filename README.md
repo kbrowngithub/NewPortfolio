@@ -6,7 +6,7 @@
  # Features
  
   ```
- Home Page with short bio of my experience. Header wfeatures links to Portfolio, Skills, Resume, and Contact information.
+ Home Page with short bio of my experience. Header features professional pic and links to Portfolio, Skills, Resume, and Contact information.
 
  Portfolio page showcasing demo projects with links to the applicatons as well as Github repos.
 
@@ -17,7 +17,7 @@
  Contact page with phone and email.
 
  Footer on all pages with links to both my LinkedIn and Github profiles.
- 
+
   ```
 
  
