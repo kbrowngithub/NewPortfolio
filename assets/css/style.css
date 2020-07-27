@@ -98,6 +98,7 @@ nav a:first-child {
     margin: 0;
     align-content: center;
 }
+
 .worklink {
     color: black;
 }
@@ -110,6 +111,10 @@ nav a:first-child {
 .github {
     font-size: small;
     font-weight: normal;
+}
+
+.techs {
+    font-size: small;
 }
 
 .footer {
@@ -140,9 +145,25 @@ nav a:first-child {
     float: left;
 }
 
-#github {
+#mygithub {
     float: right;
 }
+
+.github:visited {
+    color: purple;
+}
+
+.github:link {
+    color: blue;
+ }
+
+ .github:hover {
+    color: blueviolet;
+ }
+
+ .github:active {
+    color: hotpink;
+ }
 
 .resume {
     text-align: center;
